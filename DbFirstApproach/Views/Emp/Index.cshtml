@@ -1,0 +1,31 @@
+﻿
+@model List<Emp>
+
+<span>@TempData["Addmsg"] @TempData["msg"]</span><br />
+
+<a asp-controller="Emp" asp-action="AddEmp"><input type="submit" value="Add New" class="btn btn-info" /></a>
+<br />
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach(var d in Model)
+    {
+        <tr>
+                <td>@d.Id</td>
+                <td>@d.Name</td>
+                <td>@d.Department</td>
+                <td>@d.Salary</td>
+                <td><a asp-controller="Emp" asp-action="EditEmp" asp-route-id="@d.Id"><input type="button" Value="Edit" class="btn btn-success" /></a></td>
+        </tr>
+    }
+    </tbody>
+</table>

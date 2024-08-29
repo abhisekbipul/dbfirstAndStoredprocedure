@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\dbfirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\dbfirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\migrations\\20240828104534_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\migrations\\20240828104534_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\data\\ecommerecedotnetcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\data\\ecommerecedotnetcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\dashboard\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\dashboard\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\dashboard\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\dashboard\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\dashboard\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\dashboard\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\models\\myproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\myproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|c:\\users\\lenovo\\source\\repos\\dbfirstapproach\\dbfirstapproach\\models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79E0FE1-B843-4EA9-B2E9-CFA246F4E4EE}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 766,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Emp\\EditEmp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Emp\\EditEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:28:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:29:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\addEmp.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Emp\\addEmp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Emp\\addEmp.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Emp\\addEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:25:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240828104534_emp.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Migrations\\20240828104534_emp.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Migrations\\20240828104534_emp.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Migrations\\20240828104534_emp.cs",
+              "RelativeToolTip": "DbFirstApproach\\Migrations\\20240828104534_emp.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:45:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EcommerecedotnetcoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Data\\EcommerecedotnetcoreContext.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Data\\EcommerecedotnetcoreContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Data\\EcommerecedotnetcoreContext.cs",
+              "RelativeToolTip": "DbFirstApproach\\Data\\EcommerecedotnetcoreContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:44:40.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Emp.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:42:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "DbFirstApproach\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:42:33.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\Contact.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Dashboard\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\Contact.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Dashboard\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:08:33.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\About.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Dashboard\\About.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\About.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Dashboard\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:08:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DbFirstApproach\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:05:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Program.cs",
+              "RelativeToolTip": "DbFirstApproach\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:47:27.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DbFirstApproach\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:51:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T10:08:46.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:09:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\Home.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Dashboard\\Home.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Dashboard\\Home.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Dashboard\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:07:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\User.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:39:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:57:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Login.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:07:41.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Myproduct.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Myproduct.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Myproduct.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Myproduct.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Myproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:39:33.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Mycart.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Mycart.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Mycart.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\Models\\Mycart.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Mycart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:39:27.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbFirstApproach.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\DbFirstApproach.csproj",
+              "RelativeDocumentMoniker": "DbFirstApproach\\DbFirstApproach.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\DbFirstApproach.csproj",
+              "RelativeToolTip": "DbFirstApproach\\DbFirstApproach.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T10:44:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "DbFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\DbFirstApproach\\DbFirstApproach\\appsettings.json",
+              "RelativeToolTip": "DbFirstApproach\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T10:46:23.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
